@@ -1,5 +1,9 @@
 *.db
 .env
+
+.nvmrc
+
 assets/
+dist
 samples/
 node_modules/
