@@ -1,0 +1,24 @@
+{
+  "name": "ts-pokedex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saf3ty1nnumb3rs/ts-poke.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saf3ty1nnumb3rs/ts-poke/issues"
+  },
+  "homepage": "https://github.com/Saf3ty1nnumb3rs/ts-poke#readme",
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "typescript": "^6.0.3"
+  }
+}
